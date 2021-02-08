@@ -1,0 +1,13 @@
+C:\Users\austi\source\repos\CSharpEx04\bin\Debug\netcoreapp3.1\CSharpEx04.exe
+C:\Users\austi\source\repos\CSharpEx04\bin\Debug\netcoreapp3.1\CSharpEx04.deps.json
+C:\Users\austi\source\repos\CSharpEx04\bin\Debug\netcoreapp3.1\CSharpEx04.runtimeconfig.json
+C:\Users\austi\source\repos\CSharpEx04\bin\Debug\netcoreapp3.1\CSharpEx04.runtimeconfig.dev.json
+C:\Users\austi\source\repos\CSharpEx04\bin\Debug\netcoreapp3.1\CSharpEx04.dll
+C:\Users\austi\source\repos\CSharpEx04\bin\Debug\netcoreapp3.1\CSharpEx04.pdb
+C:\Users\austi\source\repos\CSharpEx04\obj\Debug\netcoreapp3.1\CSharpEx04.csprojAssemblyReference.cache
+C:\Users\austi\source\repos\CSharpEx04\obj\Debug\netcoreapp3.1\CSharpEx04.AssemblyInfoInputs.cache
+C:\Users\austi\source\repos\CSharpEx04\obj\Debug\netcoreapp3.1\CSharpEx04.AssemblyInfo.cs
+C:\Users\austi\source\repos\CSharpEx04\obj\Debug\netcoreapp3.1\CSharpEx04.csproj.CoreCompileInputs.cache
+C:\Users\austi\source\repos\CSharpEx04\obj\Debug\netcoreapp3.1\CSharpEx04.dll
+C:\Users\austi\source\repos\CSharpEx04\obj\Debug\netcoreapp3.1\CSharpEx04.pdb
+C:\Users\austi\source\repos\CSharpEx04\obj\Debug\netcoreapp3.1\CSharpEx04.genruntimeconfig.cache

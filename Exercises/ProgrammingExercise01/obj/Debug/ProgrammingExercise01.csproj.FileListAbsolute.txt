@@ -1,0 +1,7 @@
+C:\Users\austi\MSSA2021\Csharp\ProgrammingExercise01\bin\Debug\ProgrammingExercise01.exe.config
+C:\Users\austi\MSSA2021\Csharp\ProgrammingExercise01\bin\Debug\ProgrammingExercise01.exe
+C:\Users\austi\MSSA2021\Csharp\ProgrammingExercise01\bin\Debug\ProgrammingExercise01.pdb
+C:\Users\austi\MSSA2021\Csharp\ProgrammingExercise01\obj\Debug\ProgrammingExercise01.csprojAssemblyReference.cache
+C:\Users\austi\MSSA2021\Csharp\ProgrammingExercise01\obj\Debug\ProgrammingExercise01.csproj.CoreCompileInputs.cache
+C:\Users\austi\MSSA2021\Csharp\ProgrammingExercise01\obj\Debug\ProgrammingExercise01.exe
+C:\Users\austi\MSSA2021\Csharp\ProgrammingExercise01\obj\Debug\ProgrammingExercise01.pdb

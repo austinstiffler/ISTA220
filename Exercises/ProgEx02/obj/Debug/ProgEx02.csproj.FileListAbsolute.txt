@@ -1,0 +1,6 @@
+C:\Users\austi\MSSA2021\Csharp\ProgEx02\obj\Debug\ProgEx02.csproj.CoreCompileInputs.cache
+C:\Users\austi\MSSA2021\Csharp\ProgEx02\bin\Debug\ProgEx02.exe.config
+C:\Users\austi\MSSA2021\Csharp\ProgEx02\bin\Debug\ProgEx02.exe
+C:\Users\austi\MSSA2021\Csharp\ProgEx02\bin\Debug\ProgEx02.pdb
+C:\Users\austi\MSSA2021\Csharp\ProgEx02\obj\Debug\ProgEx02.exe
+C:\Users\austi\MSSA2021\Csharp\ProgEx02\obj\Debug\ProgEx02.pdb
