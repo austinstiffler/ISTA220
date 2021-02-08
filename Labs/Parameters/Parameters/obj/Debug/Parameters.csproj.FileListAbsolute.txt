@@ -1,0 +1,7 @@
+C:\Users\austi\MSSA2021\Csharp\Parameters\Parameters\bin\Debug\Parameters.exe.config
+C:\Users\austi\MSSA2021\Csharp\Parameters\Parameters\bin\Debug\Parameters.exe
+C:\Users\austi\MSSA2021\Csharp\Parameters\Parameters\bin\Debug\Parameters.pdb
+C:\Users\austi\MSSA2021\Csharp\Parameters\Parameters\obj\Debug\Parameters.csprojAssemblyReference.cache
+C:\Users\austi\MSSA2021\Csharp\Parameters\Parameters\obj\Debug\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\austi\MSSA2021\Csharp\Parameters\Parameters\obj\Debug\Parameters.exe
+C:\Users\austi\MSSA2021\Csharp\Parameters\Parameters\obj\Debug\Parameters.pdb

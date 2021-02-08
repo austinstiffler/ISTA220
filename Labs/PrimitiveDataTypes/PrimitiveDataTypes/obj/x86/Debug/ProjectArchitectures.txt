@@ -1,0 +1,1 @@
+C:\Users\austi\MSSA2021\Csharp\PrimitiveDataTypes\PrimitiveDataTypes\PrimitiveDataTypes.csproj;x86

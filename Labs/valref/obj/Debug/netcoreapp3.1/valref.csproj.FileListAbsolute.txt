@@ -1,0 +1,13 @@
+C:\Users\austi\MSSA2021\Csharp\valref\bin\Debug\netcoreapp3.1\valref.exe
+C:\Users\austi\MSSA2021\Csharp\valref\bin\Debug\netcoreapp3.1\valref.deps.json
+C:\Users\austi\MSSA2021\Csharp\valref\bin\Debug\netcoreapp3.1\valref.runtimeconfig.json
+C:\Users\austi\MSSA2021\Csharp\valref\bin\Debug\netcoreapp3.1\valref.runtimeconfig.dev.json
+C:\Users\austi\MSSA2021\Csharp\valref\bin\Debug\netcoreapp3.1\valref.dll
+C:\Users\austi\MSSA2021\Csharp\valref\bin\Debug\netcoreapp3.1\valref.pdb
+C:\Users\austi\MSSA2021\Csharp\valref\obj\Debug\netcoreapp3.1\valref.csprojAssemblyReference.cache
+C:\Users\austi\MSSA2021\Csharp\valref\obj\Debug\netcoreapp3.1\valref.AssemblyInfoInputs.cache
+C:\Users\austi\MSSA2021\Csharp\valref\obj\Debug\netcoreapp3.1\valref.AssemblyInfo.cs
+C:\Users\austi\MSSA2021\Csharp\valref\obj\Debug\netcoreapp3.1\valref.csproj.CoreCompileInputs.cache
+C:\Users\austi\MSSA2021\Csharp\valref\obj\Debug\netcoreapp3.1\valref.dll
+C:\Users\austi\MSSA2021\Csharp\valref\obj\Debug\netcoreapp3.1\valref.pdb
+C:\Users\austi\MSSA2021\Csharp\valref\obj\Debug\netcoreapp3.1\valref.genruntimeconfig.cache
