@@ -1,0 +1,7 @@
+C:\Users\austi\MSSA2021\ISTA220\Labs\Vehicles\Vehicles\bin\Debug\Vehicles.exe.config
+C:\Users\austi\MSSA2021\ISTA220\Labs\Vehicles\Vehicles\bin\Debug\Vehicles.exe
+C:\Users\austi\MSSA2021\ISTA220\Labs\Vehicles\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\austi\MSSA2021\ISTA220\Labs\Vehicles\Vehicles\obj\Debug\Vehicles.csprojAssemblyReference.cache
+C:\Users\austi\MSSA2021\ISTA220\Labs\Vehicles\Vehicles\obj\Debug\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\austi\MSSA2021\ISTA220\Labs\Vehicles\Vehicles\obj\Debug\Vehicles.exe
+C:\Users\austi\MSSA2021\ISTA220\Labs\Vehicles\Vehicles\obj\Debug\Vehicles.pdb

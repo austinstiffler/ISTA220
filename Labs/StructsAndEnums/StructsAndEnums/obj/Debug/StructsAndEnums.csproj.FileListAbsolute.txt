@@ -1,0 +1,7 @@
+C:\Users\austi\MSSA2021\ISTA220\Labs\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe.config
+C:\Users\austi\MSSA2021\ISTA220\Labs\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe
+C:\Users\austi\MSSA2021\ISTA220\Labs\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.pdb
+C:\Users\austi\MSSA2021\ISTA220\Labs\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csprojAssemblyReference.cache
+C:\Users\austi\MSSA2021\ISTA220\Labs\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csproj.CoreCompileInputs.cache
+C:\Users\austi\MSSA2021\ISTA220\Labs\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.exe
+C:\Users\austi\MSSA2021\ISTA220\Labs\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.pdb

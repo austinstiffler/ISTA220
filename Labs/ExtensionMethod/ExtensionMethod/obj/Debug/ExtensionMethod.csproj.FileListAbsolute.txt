@@ -1,0 +1,7 @@
+C:\Users\austi\MSSA2021\ISTA220\Labs\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+C:\Users\austi\MSSA2021\ISTA220\Labs\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Users\austi\MSSA2021\ISTA220\Labs\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Users\austi\MSSA2021\ISTA220\Labs\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csprojAssemblyReference.cache
+C:\Users\austi\MSSA2021\ISTA220\Labs\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\austi\MSSA2021\ISTA220\Labs\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\Users\austi\MSSA2021\ISTA220\Labs\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
