@@ -1,0 +1,13 @@
+C:\Users\austi\MSSA2021\ISTA220\Exercises\ProgEx05\bin\Debug\netcoreapp3.1\ProgEx05.exe
+C:\Users\austi\MSSA2021\ISTA220\Exercises\ProgEx05\bin\Debug\netcoreapp3.1\ProgEx05.deps.json
+C:\Users\austi\MSSA2021\ISTA220\Exercises\ProgEx05\bin\Debug\netcoreapp3.1\ProgEx05.runtimeconfig.json
+C:\Users\austi\MSSA2021\ISTA220\Exercises\ProgEx05\bin\Debug\netcoreapp3.1\ProgEx05.runtimeconfig.dev.json
+C:\Users\austi\MSSA2021\ISTA220\Exercises\ProgEx05\bin\Debug\netcoreapp3.1\ProgEx05.dll
+C:\Users\austi\MSSA2021\ISTA220\Exercises\ProgEx05\bin\Debug\netcoreapp3.1\ProgEx05.pdb
+C:\Users\austi\MSSA2021\ISTA220\Exercises\ProgEx05\obj\Debug\netcoreapp3.1\ProgEx05.csprojAssemblyReference.cache
+C:\Users\austi\MSSA2021\ISTA220\Exercises\ProgEx05\obj\Debug\netcoreapp3.1\ProgEx05.AssemblyInfoInputs.cache
+C:\Users\austi\MSSA2021\ISTA220\Exercises\ProgEx05\obj\Debug\netcoreapp3.1\ProgEx05.AssemblyInfo.cs
+C:\Users\austi\MSSA2021\ISTA220\Exercises\ProgEx05\obj\Debug\netcoreapp3.1\ProgEx05.csproj.CoreCompileInputs.cache
+C:\Users\austi\MSSA2021\ISTA220\Exercises\ProgEx05\obj\Debug\netcoreapp3.1\ProgEx05.dll
+C:\Users\austi\MSSA2021\ISTA220\Exercises\ProgEx05\obj\Debug\netcoreapp3.1\ProgEx05.pdb
+C:\Users\austi\MSSA2021\ISTA220\Exercises\ProgEx05\obj\Debug\netcoreapp3.1\ProgEx05.genruntimeconfig.cache
