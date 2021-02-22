@@ -1,7 +1,0 @@
-C:\Users\austi\MSSA2021\ISTA220\Homework\hw03\obj\Debug\hw03.csprojAssemblyReference.cache
-C:\Users\austi\MSSA2021\ISTA220\Homework\hw03\obj\Debug\hw03.csproj.CoreCompileInputs.cache
-C:\Users\austi\MSSA2021\ISTA220\Homework\hw03\bin\Debug\hw03.exe.config
-C:\Users\austi\MSSA2021\ISTA220\Homework\hw03\bin\Debug\hw03.exe
-C:\Users\austi\MSSA2021\ISTA220\Homework\hw03\bin\Debug\hw03.pdb
-C:\Users\austi\MSSA2021\ISTA220\Homework\hw03\obj\Debug\hw03.exe
-C:\Users\austi\MSSA2021\ISTA220\Homework\hw03\obj\Debug\hw03.pdb
